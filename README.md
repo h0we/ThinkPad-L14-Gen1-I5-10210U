@@ -1,11 +1,29 @@
-# Lenovo-ThinkPad-L14-Gen1-i7-10510u-Hackintosh
-EFI of Lenovo-ThinkPad-L14-Gen1-i7-10510u
+# Lenovo-ThinkPad-L14-Gen1-i5-10210U-Hackintosh
+EFI of Lenovo-ThinkPad-L14-Gen1-i5-10210U
 
 The EFI of ThinkPad-L14-Gen1
 
-CPU: i7-10510u
+CPU: i5-10210U
 
 Network Card：BCM94352Z
+
+
+
+## 2022-06-02
+
+开启原生电源管理（已禁用MSR 0XE2 如未禁用请自行勾选电源管理相关参数）
+
+OpenCore 7.7 ==> 0.8-release
+
+AppleALC ==> 1.7.1
+
+WhateverGreen ==> 1.5.8
+
+Lilu ==> 1.6.0
+
+VirtualSMC ==> 1.2.9
+
+
 
 ## 2022-01-31
 
